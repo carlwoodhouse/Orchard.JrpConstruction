@@ -1,0 +1,6 @@
+Name: Orchard.JrpConstruction
+Author: Carl Woodhouse
+Website: http://jrpconstructionandcarpentry.com/
+Description: Bespoke theme for jrp construction
+Version: 1.0
+

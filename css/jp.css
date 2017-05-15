@@ -1,0 +1,86 @@
+.jp hr {
+    border-color: #63D1F4;
+}
+
+.jp a {
+    color: #63D1F4;
+}
+
+.jp header {
+  background-image: url('/assets/plans-background-b.png');
+}
+
+.jp header .header-content .header-content-inner p
+{
+    color: #fff;
+}
+
+.jp .bg-primary {
+    background-color: #63D1F4;
+}
+
+.jp .navbar-default .navbar-header .navbar-brand {
+    color: #63D1F4;
+}
+
+.jp .navbar-default .nav > li>a:hover,
+.jp .navbar-default .nav>li>a:focus:hover {
+    color: #63D1F4;
+}
+
+.jp .navbar-default .nav > li.active>a,
+.jp .navbar-default .nav>li.active>a:focus {
+    color: #63D1F4!important;
+}
+
+.navbar-default .navbar-header .navbar-brand {
+        font-size: 12px;
+ }
+
+@media(min-width: 768px) {
+    .navbar-default .navbar-header .navbar-brand {
+        font-size: 18px;
+    }
+}
+
+.jp .btn-primary {
+    border-color: #63D1F4;
+    color: #fff;
+    background-color: #63D1F4;
+}
+
+.jp .text-primary {
+    color: #63D1F4;
+}
+
+.jp .btn-primary.disabled,
+.jp .btn-primary[disabled],
+.jp fieldset[disabled] .btn-primary,
+.jp .btn-primary.disabled:hover,
+.jp .btn-primary[disabled]:hover,
+.jp fieldset[disabled] .btn-primary:hover,
+.jp .btn-primary.disabled:focus,
+.jp .btn-primary[disabled]:focus,
+.jp fieldset[disabled] .btn-primary:focus,
+.jp .btn-primary.disabled.focus,
+.jp .btn-primary[disabled].focus,
+.jp fieldset[disabled] .btn-primary.focus,
+.jp .btn-primary.disabled:active,
+.jp .btn-primary[disabled]:active,
+.jp fieldset[disabled] .btn-primary:active,
+.jp .btn-primary.disabled.active,
+.jp .btn-primary[disabled].active,
+.jp fieldset[disabled] .btn-primary.active {
+    border-color: #63D1F4;
+    background-color: #63D1F4;
+}
+
+.btn-primary .badge {
+    color: #63D1F4;
+    background-color: #fff;
+}
+
+.jp .portfolio-box .portfolio-box-caption {
+    background: rgba(64, 200, 240, 0.9);
+}
+

@@ -1,0 +1,21 @@
+﻿@using Orchard.ContentManagement
+@using Orchard.Mvc.Html;
+@using Orchard.UI.Resources;
+@{
+}
+<!DOCTYPE html> 
+<html lang="@WorkContext.CurrentCulture" class="@Html.ClassForPage()"> 
+<head> 
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>JRP Construction and Carpentry</title>
+    @Display(Model.Head)
+</head> 
+<body>
+@* Layout (template) is in the Body zone @ the default position (nothing, zero, zilch) *@
+@Display(Model.Body)
+@Display(Model.Tail)
+
+</body>
+</html>
