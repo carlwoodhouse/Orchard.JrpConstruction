@@ -1,9 +1,9 @@
 
 var imageIndex = 0;
 var imagesArray = [
-    "assets/van-background.jpg",
-    "assets/van-background2.jpg",
-    "assets/van-background3.jpg"
+    "Themes/Orchard.JrpConstruction/assets/van-background.jpg",
+    "Themes/Orchard.JrpConstructionassets/van-background2.jpg",
+    "Themes/Orchard.JrpConstructionassets/van-background3.jpg"
 ];
 
 function changeBackground(){
